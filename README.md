@@ -1,2 +1,2 @@
 # Portfolio
- A Website Resume
+ A website resume
